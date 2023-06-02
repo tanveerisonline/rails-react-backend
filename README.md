@@ -27,7 +27,7 @@ The Greeting App is a simple web application built to demonstrate the implementa
 
 # 📂 Frontend Repository
 
-The frontend repository for the Greeting App can be found at hello-react-front-end. It contains the code for the user interface and interacts with the backend server.
+The frontend repository for the Greeting App can be found at [hello-rails-front-end](https://github.com/tanveerisonline/rails-react-frontend). It contains the code for the user interface and interacts with the backend server.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
